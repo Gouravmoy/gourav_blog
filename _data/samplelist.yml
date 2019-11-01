@@ -1,0 +1,30 @@
+docs_list_title: ACME Documentation
+docs:
+
+- title: New Title
+  url: /blog/welcome.html
+
+- title: Rapid Data comparator
+  url: /blog/projects/rdc.html
+
+- title: About Me
+  url: /blog/about-me.html
+
+- title: Rapid Data Comparator2
+  url: /blog/project/rdc2.html
+
+toc:
+  - title: Blog
+    subfolderitems:
+      - page: New Title
+        url: /blog/welcome.html
+      - page: About Me
+        url: /blog/about-me.html
+  - title: Projects
+    subfolderitems:
+      - page: Rapid Data comparator
+        url: /blog/projects/rdc.html
+      - page: Rapid Data Comparator2
+        url: /blog/project/rdc2.html
+        
+  
